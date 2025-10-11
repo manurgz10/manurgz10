@@ -1,5 +1,5 @@
 # Hi, I'm Manu! 👨🏼‍💻🇪🇸
-<a href="https://www.linkedin.com/in/manu-rodr%C3%ADguez-563037277/">
+<a href="https://www.linkedin.com/in/manuel-rodriguezrodriguez/">
     <img align="left" alt="Manu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
